@@ -12,7 +12,8 @@ public class Temp {
 
         cel = (fahr - 32) * 5.0/9.0;
         System.out.println("The temperature in C is: " + cel);
-
+        
+        in.close();
         System.exit(0 );
     }
 
