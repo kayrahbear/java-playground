@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class TempConv {
+public class Temp {
     public static void main(String[] args) {
         Double fahr;
         Double cel;
